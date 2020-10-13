@@ -1,4 +1,4 @@
-Smart Store Project (with QR CODE SCANNER)
+#Smart Store Project (with QR CODE SCANNER)
 (Final Year Projects) in PHP/HTML5/CSS/Bootstrap/Javascript/Mysql
 ______________________________________
 1. Employee Panel
